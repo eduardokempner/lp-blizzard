@@ -1,0 +1,13 @@
+header {
+  position: fixed;
+}
+
+body {
+  background-color: green;
+  font-size: 62.5%;
+  font-weight: bold;
+  -webkit-box-shadow: 4px 4px 4px 4px #000;
+  box-shadow: 4px 4px 4px 4px #000;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
